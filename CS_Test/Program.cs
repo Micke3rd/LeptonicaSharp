@@ -3,7 +3,7 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
-using static LeptonicaSharp._All;
+//using static LeptonicaSharp._All;
 
 namespace TestAppCSharp
 {
